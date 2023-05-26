@@ -1,2 +1,1 @@
-My second readme
-Updating readme
+ I am enjoying learning git
